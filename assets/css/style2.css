@@ -1,0 +1,39 @@
+body{
+    background-color: #AAA;
+}
+.header
+{
+    background-color: #FFF;
+    height: 80px;
+}
+.center
+{
+    width: 960px;
+    margin: auto;
+}
+.floatLeft
+{
+    background-color: #9999FF;
+    height: 80px;
+    float: left;
+    margin: 0px;
+}
+.floatRight
+{
+    float:right;
+}
+.floatRight a
+{
+    font-size: 24px;
+    margin-left: 10px;
+    position: relative;
+}
+.floatRight a:hover
+{
+    background-color: #FF5599;
+    top: 10%;
+}
+.content
+{
+    clear: both;
+}
