@@ -45,6 +45,7 @@ body{
     border: black solid 2px; 
     float: right;
     margin-left: 200px;
+  
 }
 footer {
     position: fixed;
@@ -55,4 +56,11 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+}
+.centerContent  {
+    float: left;
+    margin-left: 100px;
+    border: black solid 2px; 
+    width: 600px;
+    height: auto;
 }
