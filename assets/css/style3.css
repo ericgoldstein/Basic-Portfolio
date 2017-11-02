@@ -38,13 +38,29 @@ body{
     clear: both;
 }
 footer {
-    clear: both;
-    margin: 2px;
-    
-    background-color: #666666;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
     color: white;
-   text-align: center;
-   height: 30px;
-   padding: 30px;
-   
+    text-align: center;
+    padding: 20px;
+}
+#contactBox
+    {
+    float: left;
+    margin-left: 150px;
+    border: black solid 2px; 
+    width: 600px;
+    height: 400px;
+    top: 100px;
+    }
+    #connectBox 
+    {
+    height: auto;
+    width: 200px;
+    border: black solid 2px; 
+    float: left;
+    margin-left: 300px;
 }
