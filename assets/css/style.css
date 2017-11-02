@@ -45,7 +45,18 @@ body{
 {
     clear: both;
 }
-	#aboutMeBox, #image, #paragraph 
+	#aboutMeBox
 	{
-	
+	float: left;
+	margin-left: 100px;
+	border: black solid 2px; 
+	width: 600px;
+	height: auto;
 	}
+#connectBox {
+	height: auto;
+	width: 200px;
+	border: black solid 2px; 
+	float: left;
+	margin-left: 300px;
+}
