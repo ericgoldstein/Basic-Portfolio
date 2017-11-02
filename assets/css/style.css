@@ -60,3 +60,10 @@ body{
 	float: left;
 	margin-left: 300px;
 }
+#image {
+	float: left;
+	margin: 0 15px 0 15px;
+}
+h2 {
+	margin-left: 15px;
+}
