@@ -1,5 +1,8 @@
 body{
-    background-color: #AAA;
+    background-color: #ffffff;
+}
+h2 {
+    color: #4aaaa5;
 }
 .header
 {
@@ -42,7 +45,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray;
+    background-color: #666666;
     color: white;
     text-align: center;
     padding: 20px;

@@ -1,5 +1,9 @@
 body{
-    background-color: #AAA;
+    background-color: #ffffff;
+    margin color: #FFF;
+}
+h2 {
+    color: #4aaaa5;
 }
 .header
 {
@@ -37,6 +41,13 @@ body{
 {
     clear: both;
 }
+.centerContent  {
+    float: left;
+    margin-left: 100px;
+    border: black solid 2px; 
+    width: 600px;
+    height: auto;
+}
 #connectBox 
     {
     clear: both;
@@ -52,15 +63,8 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray;
+    background-color: #666666;
     color: white;
     text-align: center;
     padding: 20px;
-}
-.centerContent  {
-    float: left;
-    margin-left: 100px;
-    border: black solid 2px; 
-    width: 600px;
-    height: auto;
 }
