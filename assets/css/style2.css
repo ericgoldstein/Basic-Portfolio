@@ -1,6 +1,5 @@
 body{
     background-color: #ffffff;
-    margin color: #FFF;
 }
 h2 {
     color: #4aaaa5;
@@ -46,16 +45,16 @@ h2 {
     margin-left: 100px;
     border: black solid 2px; 
     width: 600px;
-    height: auto;
+    /*height: auto;*/
 }
 #connectBox 
     {
-    clear: both;
+    /*clear: both;*/
     height: auto;
     width: 200px;
     border: black solid 2px; 
-    float: right;
-    margin-left: 200px;
+    float: left;
+    margin-left: 40px;
   
 }
 footer {
@@ -67,4 +66,21 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+}
+.boxFun {
+    float: left;
+  /*  position: relative;
+    width: 50px;
+    height: 50px;*/
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.backgroundBox {
+    text-align: center;
+    width: 100%;
+    height: 37px;
+    background: green;
+    position: relative;
+    bottom: 78px;
+    line-height: 32px;
 }
